@@ -1,11 +1,20 @@
 # ai_Temple
-AI 廟宇數位化管理系統
+這個頁面是一個「廟宇數位化管理系統（Temple Digital Management System）」的產品型 Landing Page。
+
+---
 
 ![Temple-01](./images/Temple-01.png)
 
 ---
     
 [DEMO 網站](https://gleaming-sherbet-38262d.netlify.app/)
+
+## 抽籤功能
+![temple-02](./images/temple-02.png)
+
+---
+
+![temple-03](./images/temple-03.png)
 
 ---
 
