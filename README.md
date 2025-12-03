@@ -3,19 +3,19 @@
 
 ---
 
-![Temple-01](./images/Temple-01.png)
+![Temple-01](./images/Temple-01.png)  
 
 ---
     
-[Netlify: DEMO 網站](https://gleaming-sherbet-38262d.netlify.app/)
-[Vercel: DEMO 網站](https://ai-temple.vercel.app/)
+[Netlify: DEMO 網站](https://gleaming-sherbet-38262d.netlify.app/)  
+[Vercel: DEMO 網站](https://ai-temple.vercel.app/)  
 
 ## 抽籤功能
-![temple-02](./images/temple-02.png)
+![temple-02](./images/temple-02.png)  
 
 ---
 
-![temple-03](./images/temple-03.png)
+![temple-03](./images/temple-03.png)  
 
 ---
 
