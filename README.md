@@ -1,5 +1,5 @@
 # ai_Temple
-這個頁面是一個「廟宇數位化管理系統（Temple Digital Management System）」的產品型 Landing Page。
+這個頁面是一個「廟宇數位化管理系統（Temple Digital Management System）」的產品型 Landing Page，已上傳到 netlify 與 vercel。。
 
 ---
 
