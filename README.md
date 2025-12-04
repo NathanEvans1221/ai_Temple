@@ -9,6 +9,7 @@
     
 [Netlify: DEMO 網站](https://gleaming-sherbet-38262d.netlify.app/)  
 [Vercel: DEMO 網站](https://ai-temple.vercel.app/)  
+[render: DEMO 網站](https://ai-temple.onrender.com)  
 
 ## 抽籤功能
 ![temple-02](./images/temple-02.png)  
